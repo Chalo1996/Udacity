@@ -9,11 +9,3 @@ This course covers how to access data using SQL<br>
 ###Resources:###</br>
 
 Udacity Scholarship.</br>
-
-Duration of Study:</br>
-
-1 month.</br>
-
-Competency now: </br>
-
-80%</br>
